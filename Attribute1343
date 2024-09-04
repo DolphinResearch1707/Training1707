@@ -1,0 +1,14 @@
+Create Node I with set Z
+if all instances of Z in I have class label values(Y)
+then return Zwith label J
+if empty(Att)
+Then return Z with majority label from K
+A{----chooseAttribute(Ztt,T)  /*with maximum information gain*/
+Z.decisionsAttribute<---Y
+for each value Z of A
+Z<-------subset of K with value Y of elements
+Create Node Y with set of W.
+Subset(Z,A)<--------Zk
+If Empty(Zh)
+Label Zawith majority label from W
+Return A
